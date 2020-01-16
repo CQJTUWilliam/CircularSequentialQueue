@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CircularSequentialQueue.dir/main.cpp.o CMakeFiles/CircularSequentialQueue.dir/CircularSequentialQueue.cpp.o  -o CircularSequentialQueue 

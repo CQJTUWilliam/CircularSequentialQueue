@@ -1,0 +1,4 @@
+/home/william/software/clion-2019.1.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/william/CLionProjects/CircularSequentialQueue
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/william/CLionProjects/CircularSequentialQueue/cmake-build-debug

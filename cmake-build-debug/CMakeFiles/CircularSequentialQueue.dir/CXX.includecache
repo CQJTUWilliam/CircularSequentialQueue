@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/william/CLionProjects/CircularSequentialQueue/CircularSequentialQueue.h
+cstddef
+-
+cstring
+-
+iostream
+-
+
+/home/william/CLionProjects/CircularSequentialQueue/main.cpp
+iostream
+-
+CircularSequentialQueue.h
+/home/william/CLionProjects/CircularSequentialQueue/CircularSequentialQueue.h
+
